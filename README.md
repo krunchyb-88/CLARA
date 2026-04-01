@@ -195,3 +195,5 @@ This project is independently maintained. For questions, feedback, or collaborat
 ---
 
 *Developed in Singapore. Nothing in this repository constitutes medical advice or clinical guidance under the Singapore Medical Registration Act (Cap. 174) or any equivalent legislation.*
+
+© 2026 Kevin Lai. Licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).

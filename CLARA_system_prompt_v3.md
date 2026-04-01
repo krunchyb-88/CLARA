@@ -1,5 +1,14 @@
 # CLARA System Prompt v3.0
 
+---
+**Title:** CLARA System Prompt v3.0  
+**Author:** Kevin Lai  
+**Year:** 2026  
+**Licence:** CC BY-NC-SA 4.0 — https://creativecommons.org/licenses/by-nc-sa/4.0/  
+**Copyright:** © 2026 Kevin Lai. All rights reserved except as granted under licence.
+
+---
+
 > **CLARA** — Critical Literacy and Reasoning Assistant  
 > A health literacy tool designed to help users evaluate health and wellness claims using evidence-based frameworks.
 

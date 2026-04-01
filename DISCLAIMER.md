@@ -1,6 +1,6 @@
-Copyright © 2026 [Kevin Lai]. All rights reserved except as granted under licence.
-
 # Legal Disclaimer & Limitation of Liability
+
+**Copyright © 2026 Kevin Lai. All rights reserved except as granted under licence.**
 
 > This disclaimer applies to all materials, files, and outputs associated with the CLARA (Critical Literacy and Reasoning Assistant) project, including the system prompt, knowledge files, documentation, and any derivative works.
 
