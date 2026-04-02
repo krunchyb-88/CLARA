@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ![Version: 3.2](https://img.shields.io/badge/Version-3.2-blue)
-![Status: Phase 2 Build](https://img.shields.io/badge/Status-Phase%202%20Build-orange)
+![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-orange)
 ![Domain: Health Literacy](https://img.shields.io/badge/Domain-Health%20Literacy-green)
 ![Context: Singapore](https://img.shields.io/badge/Context-Singapore-red)
 
@@ -41,6 +41,8 @@ CLARA applies the GRADE evidence framework across nutrition, supplementation, me
 | `CLARA_system_prompt_v3.md` | v3.0 | Core system prompt — defines CLARA's behaviour, constraints, evidence standards, and Clinical Bridge function |
 | `CLARA_Knowledge_File_v3_2.md` | v3.2 | Reference tables, evidence hierarchies, manipulation playbook, GRADE framework, intervention hierarchy (13 health goals), source quality audit, glossary, and confidence map |
 | `CLARA_User_Guide_v3_2.pdf` | v3.2 | User guide and pre-reading — essential before first use |
+| `INSTRUCTIONS.md` | — | Step-by-step setup guide — how to configure CLARA in Claude.ai and run your first session |
+| `ROADMAP.md` | — | Current limitations, planned enhancements, and collaboration opportunities |
 | `DISCLAIMER.md` | — | Full legal disclaimer and limitation of liability |
 | `CONTRIBUTING.md` | — | Contribution guidelines and contributor licence agreement |
 | `LICENSE` | — | CC BY-NC-SA 4.0 full licence text |
@@ -185,6 +187,16 @@ By using, copying, adapting, or deploying any material in this repository, you a
 ## Contributing
 
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for contribution guidelines, scope, and the contributor licence agreement.
+
+---
+
+## Roadmap & Current Limitations
+
+CLARA is functional and useful as-is. It also has real limitations — primarily the absence of live database connectivity — that are documented honestly in [`ROADMAP.md`](./ROADMAP.md).
+
+The roadmap covers: current limitations and their practical impact, planned database integrations (PubMed, Semantic Scholar, ClinicalTrials.gov, Cochrane, UpToDate Connect), medium and longer-term enhancements, and an open call for contributors, data providers, and potential partners.
+
+If you are a developer, clinician, researcher, data provider, or potential funder interested in contributing to or collaborating on CLARA's next phase, [`ROADMAP.md`](./ROADMAP.md) is the place to start.
 
 ---
 
